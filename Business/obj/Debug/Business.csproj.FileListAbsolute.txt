@@ -1,0 +1,11 @@
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Business\bin\Debug\Business.dll
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Business\bin\Debug\Business.pdb
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Business\obj\Debug\Business.dll
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Business\obj\Debug\Business.pdb
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Business\bin\Debug\Data.dll
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Business\bin\Debug\Entity.dll
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Business\bin\Debug\Data.pdb
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Business\bin\Debug\Entity.pdb
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Business\obj\Debug\Business.csproj.CopyComplete

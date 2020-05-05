@@ -1,0 +1,9 @@
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Data\bin\Debug\Data.dll
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Data\bin\Debug\Data.pdb
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Data\bin\Debug\Entity.dll
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Data\bin\Debug\Entity.pdb
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Data\obj\Debug\Data.dll
+C:\Cursos\6TO ciclo\DAWAV\Semana5\Data\obj\Debug\Data.pdb
